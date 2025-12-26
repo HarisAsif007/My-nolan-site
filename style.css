@@ -25,8 +25,8 @@ header img{
     box-shadow: 0 0 10px rgb(233, 237, 236);
     margin-top: 20px;
 }
-#home .portrait{
-    max-width:260px;
+.portrait{
+    max-width:300px;
 }
 .cinematic-line{
     display:block ;
@@ -203,6 +203,7 @@ body#page404{
     background-color: #f5f5f5;
     color: #0b0e14;
 }
+
 
 
 

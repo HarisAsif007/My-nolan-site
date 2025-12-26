@@ -25,6 +25,12 @@ header img{
     box-shadow: 0 0 10px rgb(233, 237, 236);
     margin-top: 20px;
 }
+#home .portrait{
+    width:300px;
+    height:auto;
+    dispaly:black;
+    margin:20px auto;
+}
 .cinematic-line{
     display:block ;
     font-style: italic;
@@ -200,6 +206,7 @@ body#page404{
     background-color: #f5f5f5;
     color: #0b0e14;
 }
+
 
 
 
